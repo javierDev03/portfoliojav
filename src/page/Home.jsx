@@ -12,7 +12,7 @@ export default function Home() {
         <div className=" text-center ">
           <div>
             <img
-              src="./public/avatar1.png"
+              src="./avatar1.png"
               alt="avatar"
               className=" rounded-full overflow-hidden h-64 mt-20 mx-auto flex justify-center"
             />
@@ -50,7 +50,7 @@ export default function Home() {
             Experiencia con
           </h2>
           <img
-            src="./public/logos.png"
+            src="./logos.png"
             alt=""
             className="mx-auto pt-14 md:w-auto w-96"
           />
@@ -126,7 +126,7 @@ export default function Home() {
           <br />
           <br />
           <span className="items-center object-center flex">
-            <img src="./public/Email Icon.png" alt="" className="pr-2" />
+            <img src="./Email Icon.png" alt="" className="pr-2" />
             <a
               href="mailto:javicervel25@gmail.com"
               className=" font-semibold text-sm text-[#C5C5C5]"
@@ -137,10 +137,10 @@ export default function Home() {
           <br />
           <div className="flex">
             <a href="https://www.instagram.com/">
-              <img src="./public/insta.png" alt="" className="pr-5" />
+              <img src="./insta.png" alt="" className="pr-5" />
             </a>
             <a href="https://twitter.com/uwur7u7">
-              <img src="./public/x.png" alt="" />
+              <img src="./x.png" alt="" />
             </a>
           </div>
         </div>
