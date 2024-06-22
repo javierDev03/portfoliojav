@@ -2,7 +2,7 @@ export default function Nav() {
   return (
     <>
       <header className="fixed   w-full z-10">
-        <nav className="  bg-[#222222] text-white font-semibold flex justify-center text-center items-center h-[82.18px] p-2">
+        <nav className="  bg-[#222222] text-white font-semibold flex justify-center text-center items-center  h-[82.18px] p-2">
           <a href="/#home" className=" ml-10 hover:text-[#C5C5C5]">
             Home
           </a>
@@ -14,7 +14,7 @@ export default function Nav() {
           </a>
           <a
             href="mailto:javicervel25@gmail.com"
-            className="ml-10 hover:text-[#C5C5C5]"
+            className="ml-10 pr-7 hover:text-[#C5C5C5]"
           >
             Contacto
           </a>
