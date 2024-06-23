@@ -138,10 +138,10 @@ export default function Home() {
           <br />
           <div className="flex">
             <a href="https://www.instagram.com/">
-              <img src="./insta.png" alt="" className="pr-5" />
+              <img src="./insta.png" alt="" className="pr-5" target="_blank" />
             </a>
             <a href="https://twitter.com/uwur7u7">
-              <img src="./x.png" alt="" />
+              <img src="./x.png" alt="" target="_blank"/>
             </a>
           </div>
         </div>
