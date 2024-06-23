@@ -11,7 +11,7 @@ export default function Card() {
           />
           <div className=" text-white font-semibold bg-[#2A2A2A] w-80 rounded-md flex flex-col p-2">
             <span className="text-[#C5C5C5]">
-              <a href={info.url}>Click para visitar</a>
+              <a href={info.url} target="_blank">Click para visitar</a>
             </span>
             <p>{info.titulo}</p>
           </div>
