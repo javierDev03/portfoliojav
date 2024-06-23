@@ -35,12 +35,13 @@ export default function Home() {
             <a
               href="https://www.linkedin.com/in/francisco-javier-cervantes-velasco-a40517275/"
               className=""
+              target="_blank"
             >
               <button className=" bg-white hover:opacity-75 font-bold mt-10  p-4 rounded-full text-xl px-10">
                 Linkedin
               </button>
             </a>
-            <a href="https://github.com/javierDev03" className="">
+            <a href="https://github.com/javierDev03" target="_blank" className="">
               <button className=" bg-black  hover:opacity-75 border-2 border-white text-white font-bold mt-10  p-4 rounded-full text-xl px-10">
                 GitHub
               </button>
